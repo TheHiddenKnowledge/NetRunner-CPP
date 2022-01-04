@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetRunner", "NetRunner\NetRunner.vcxproj", "{FC72B0B0-AAE5-4E2B-A2D0-F4F4D5895C4D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetRunnerDebug", "..\NetRunnerDebug\NetRunnerDebug.vcxproj", "{A9CA1146-E964-4B57-8ED0-C54236D64AAB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetRunnerDebug", "NetRunnerDebug\NetRunnerDebug.vcxproj", "{A9CA1146-E964-4B57-8ED0-C54236D64AAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
