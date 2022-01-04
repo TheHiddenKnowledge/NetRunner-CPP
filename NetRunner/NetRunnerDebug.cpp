@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <NetRunner.h>
+#include "NetRunner.h"
 #include <list>
 #include <random>
 // This neural net will take in a set of 3 booleans representing color values and return the predicted color

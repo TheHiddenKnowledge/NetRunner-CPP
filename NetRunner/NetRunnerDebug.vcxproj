@@ -142,6 +142,11 @@
   <ItemGroup>
     <ClCompile Include="NetRunnerDebug.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="NetRunner\NetRunner.vcxproj">
+      <Project>{fc72b0b0-aae5-4e2b-a2d0-f4f4d5895c4d}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
